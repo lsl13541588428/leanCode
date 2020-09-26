@@ -2,7 +2,9 @@
 #include <stdio.h>
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
-/***/
+/***
+求100以内的素数 
+*/
 int main() {
 	int x;
 	for(x=1;x<=100;x++){
